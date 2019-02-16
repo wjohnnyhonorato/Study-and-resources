@@ -5,5 +5,7 @@ use  \ to cancel special funtions.
 
 Round() is a method in python used to round a float number.
 
-int() or float() methods can be used to change the variable types.  Like int (4.433).
+int() or float() methods can be used to convert the variable types.  Like int (4.433).
+
+str() method is used to convert int or flot in stings.
 
