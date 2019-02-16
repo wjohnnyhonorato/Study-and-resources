@@ -9,3 +9,5 @@ int() or float() methods can be used to convert the variable types.  Like int (4
 
 str() method is used to convert int or flot in stings.
 
+string concatenation use print("eu" + " " + "te amo"). Use " " to print a space.
+
