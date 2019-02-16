@@ -19,3 +19,6 @@ Endereços dos conteúdos:https://github.com/llSourcell/Learn_Data_Science_in_3_
 
 dsacademybr/PythonFundamentos:
 https://github.com/dsacademybr/PythonFundamentos
+
+projetos:
+https://projecteuler.net/about
