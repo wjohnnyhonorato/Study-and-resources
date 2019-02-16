@@ -1,4 +1,9 @@
 
+print (x) used to dysplay x on the screen
+
 use  \ to cancel special funtions.
 
 Round() is a method in python used to round a float number.
+
+int() or float() methods can be used to change the variable types.  Like int (4.433).
+
